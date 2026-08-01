@@ -1,0 +1,6 @@
+{
+  "name": "ElectroLab AI",
+  "description": "ElectroLab AI 是一款结合人工智能与物理化学定量计算的专业电化学分析平台，支持 CV 循环伏安、GCD 恒流充放电及 EIS 交流阻抗数据的智能拟合、特征提取与报告生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
